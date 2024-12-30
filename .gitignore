@@ -1,2 +1,8 @@
 # hugo
 .hugo_build.lock
+
+# site
+public
+
+# Mac
+.DS_Store
