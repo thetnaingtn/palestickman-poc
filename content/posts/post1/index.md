@@ -8,3 +8,5 @@ summary = "သီချင်းပါ"
 # နံပါတ် ၃၃
 
 ဒီ စာပိုဒ် က နမူနာပါ။ တကယ့်စာမရေးရသေးပါ။ ကျေးဇူးတင်ပါတယ်။ 
+
+{{< figure src="post1.png" alt="A beautiful sunset" width="800" >}}
