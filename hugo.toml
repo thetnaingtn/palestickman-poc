@@ -1,4 +1,3 @@
-baseURL = 'https://palestickman-poc-6cik.vercel.app'
 languageCode = 'en-us'
 title = 'palestickman'
 theme = 'archie'
