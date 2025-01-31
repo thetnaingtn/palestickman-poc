@@ -4,3 +4,14 @@ theme = 'archie'
 googleAnalytics='G-XY11KS9ZHB'
 [params]
   mode = 'toggle'
+[languages]
+  [languages.my]
+    languageCode = 'my'
+    languageDirection = 'ltr'
+    languageName = 'Myanmar'
+    title = 'ခေါင်းစဉ်'
+  [languages.en]
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
