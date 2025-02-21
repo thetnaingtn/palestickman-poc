@@ -2,6 +2,16 @@ languageCode = 'en-us'
 title = 'palestickman'
 theme = 'archie'
 googleAnalytics='G-XY11KS9ZHB'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+[[redirects]]
+  from = '/my/**'
+  status = 404
+  to = '/my/404.html'
+[[redirects]]
+  from = '/**'
+  status = 404
+  to = '/404.html'
 [params]
   mode = 'toggle'
 [languages]
