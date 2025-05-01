@@ -5,5 +5,5 @@ title = 'Another Post'
 +++
 
 # This is test
-
+{{< figure src="packages.jpg" alt="A beautiful sunset" width="800" >}}
 test post

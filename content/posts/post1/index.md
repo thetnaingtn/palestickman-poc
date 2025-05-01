@@ -9,4 +9,4 @@ summary = "သီချင်းပါ"
 
 ဒီ စာပိုဒ် က နမူနာပါ။ တကယ့်စာမရေးရသေးပါ။ ကျေးဇူးတင်ပါတယ်။ 
 
-{{< figure src="packages.jpg" alt="A beautiful sunset" width="800" >}}
+{{< figure src="boxes.jpg" alt="A beautiful sunset" width="800" >}}
