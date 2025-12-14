@@ -1,8 +1,8 @@
 {
     "routes": [
       { "handle": "filesystem" },
+      { "src": "/posts/post1", "status": 304, "dest": "/posts/hello" },
       { "src": "/my/(.*)", "status": 404, "dest": "/my/404.html" },
-      { "src": "/(.*)", "status": 404, "dest": "/404.html" },
-      { "src": "/posts/post1", "status": 304, "dest": "/posts/hello" }
+      { "src": "/(.*)", "status": 404, "dest": "/404.html" }
     ]
   }
