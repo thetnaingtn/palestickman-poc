@@ -3,6 +3,6 @@
       { "handle": "filesystem" },
       { "src": "/my/(.*)", "status": 404, "dest": "/my/404.html" },
       { "src": "/(.*)", "status": 404, "dest": "/404.html" },
-      { "src": "/posts/post1", "status": 200, "dest": "/hello.html" }
+      { "src": "/posts/post1", "status": 304, "dest": "/posts/hello" }
     ]
   }
