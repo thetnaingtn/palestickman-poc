@@ -3,6 +3,8 @@ date = '2025-01-26T21:08:56+07:00'
 draft = false
 title = 'ဘာလာရှာပါသလဲ ဘာမှမရှိလို့ စိတ်မကောင်းပါ။'
 summary = "သီချင်းပါ"
+genres = ['mystrey', 'romance']
+tags = ['test', 'personal']
 +++
 
 # နံပါတ် ၃၃

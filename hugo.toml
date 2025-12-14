@@ -4,6 +4,9 @@ theme = 'archie'
 googleAnalytics='G-XY11KS9ZHB'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
+[taxonomies]
+  genre = 'genres'
+  tag = 'tags'
 [[redirects]]
   from = '/my/**'
   status = 404

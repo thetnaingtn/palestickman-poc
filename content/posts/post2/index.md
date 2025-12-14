@@ -2,6 +2,7 @@
 date = '2025-01-26T21:08:56+07:00'
 draft = false
 title = 'Another Post'
+genres = ["mystrey"]
 +++
 
 # This is test
