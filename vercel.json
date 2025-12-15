@@ -1,8 +1,6 @@
 {
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/posts/post1", "status": 200, "dest": "/posts/hello.html" },
-      { "src": "/my/(.*)", "status": 404, "dest": "/my/404.html" },
-      { "src": "/(.*)", "status": 404, "dest": "/404.html" }
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "redirects": [
+      { "source": "/posts/post1", "destination": "/posts/hello", "permanent": true }
     ]
   }
